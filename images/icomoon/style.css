@@ -1,0 +1,56 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-brand {
+  width: 1.7666015625em;
+}
+
+.icon-email {
+  width: 9.470703125em;
+}
+
+.icon-f {
+  width: 0.5498046875em;
+}
+
+.icon-Logo {
+  width: 1.7666015625em;
+}
+
+.icon-Logocompany {
+  width: 1.7666015625em;
+}
+
+.icon-Logofoster {
+  width: 1.7666015625em;
+}
+
+.icon-Logosecond {
+  width: 1.7666015625em;
+}
+
+.icon-tel {
+  width: 8.875em;
+}
+
+.icon-tw {
+  width: 1.111328125em;
+}
+
+.icon-yago {
+  width: 1.7666015625em;
+}
